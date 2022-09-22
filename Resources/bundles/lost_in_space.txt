@@ -1,0 +1,66 @@
+// Ships
+BITMAP,aquarii,Aquarii.png
+BITMAP,gliese,Gliese.png
+BITMAP,pegasi,Pegasi.png
+// Planets
+BITMAP,earth,earth.png
+BITMAP,jupiter,jupiter.png
+BITMAP,mars,mars.png
+BITMAP,mercury,mercury.png
+BITMAP,neptune,neptune.png
+BITMAP,pluto,pluto.png
+BITMAP,saturn,saturn.png
+BITMAP,uranus,uranus.png
+BITMAP,venus,venus.png
+// Power ups
+BITMAP,shield,shield.png
+BITMAP,power,power.png
+BITMAP,potion,potion.png
+BITMAP,fuel,fuel.png
+BITMAP,drops,drops.png
+BITMAP,diamond,diamond.png
+BITMAP,star,star.png
+BITMAP,cash,cash.png
+BITMAP,nos,nos.png
+BITMAP,level,level.png
+BITMAP,bullet,bullet.png
+BITMAP,coin,coin.png
+BITMAP,battery,battery.png
+BITMAP,heart,heart.png
+BITMAP,muscle,muscle.png
+BITMAP,time,time.png
+BITMAP, health, health.png
+BITMAP, hud_background, hud_background.png
+BITMAP, health_empty, health_empty.png
+BITMAP, bar_grey_fill, bar_grey_fill.png
+BITMAP, red_bar, red_bar.png
+BITMAP, star_background, star_background.gif
+BITMAP, coin_bar, coin_bar.png
+BITMAP, control_menu, control_menu.png
+BITMAP, game_over, game_over.png
+BITMAP, level_one, level_one.png
+BITMAP, level_two, level_two.png
+BITMAP, level_three, level_three.png
+BITMAP, level_four, level_four.png
+BITMAP, level_five, level_five.png
+BITMAP, meteor, meteor.png
+BITMAP, comet, comet.png
+BITMAP, alien, alien.png
+BITMAP, asteroid, asteroid.png
+BITMAP, intro_screen, intro_screen.png
+// Coins
+BITMAP,silver_coin,silver_coin.png,26,26,6,1,6
+BITMAP,bronse_coin,bronse_coin.png,26,26,6,1,6
+BITMAP,gold_coin,gold_coin.png,26,26,6,1,6
+// Other
+BITMAP,box,box.png
+BITMAP,empty,empty.png
+BITMAP,full,full.png
+ANIM,coins,coin_animation.txt
+SOUND, item_collect, item_collect.wav
+SOUND, backing_music, backing_music.wav
+SOUND, ship_damage, ship_damage.wav
+SOUND, level_up, level_up.wav
+SOUND, game_over, game_over.wav
+
+
